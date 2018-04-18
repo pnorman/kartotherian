@@ -61,7 +61,9 @@
     "tilelive": "~5.12.2",
     "tilelive-bridge": "~2.3.1",
     "tilejson": "^1.0.3",
-    "tilelive-http": "~0.13.0"
+    "tilelive-http": "~0.13.0",
+    "tilelive-tmsource": "~0.6.1",
+    "tilelive-tmstyle": "~0.7.0"
   },
   "optionalDependencies": {
     "bunyan-prettystream": "*"
